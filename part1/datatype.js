@@ -15,6 +15,7 @@ Types of datatypes in JavaScript:
      - Function
      - Date
      - RegExp
+     - class
      - etc.     
 */
 var score = 100; // Number
